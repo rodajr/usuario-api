@@ -1,4 +1,4 @@
-# usuario-api com Spring0-Boot + Maven + Swagger + MariaDB
+# usuario-api com Spring-Boot + Maven + Swagger + MariaDB
 
 #Swagger
 http://localhost:8081/swagger-ui.html
